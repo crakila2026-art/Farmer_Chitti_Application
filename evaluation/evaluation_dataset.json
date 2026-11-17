@@ -1,0 +1,55 @@
+
+[
+  {
+    "id": 1,
+    "question": "What is PM-KISAN?",
+    "expected_keywords": [
+      "income support",
+      "farmers",
+      "government"
+    ],
+    "expected_source": "pm_kisan.pdf",
+    "language": "English"
+  },
+  {
+    "id": 2,
+    "question": "What is the objective of PMFBY?",
+    "expected_keywords": [
+      "crop insurance",
+      "crop loss",
+      "farmers"
+    ],
+    "expected_source": "pm_fasal_bima.pdf",
+    "language": "English"
+  },
+  {
+    "id": 3,
+    "question": "What is Kisan Credit Card?",
+    "expected_keywords": [
+      "credit",
+      "agriculture",
+      "farmers"
+    ],
+    "expected_source": "kcc.pdf",
+    "language": "English"
+  },
+  {
+    "id": 4,
+    "question": "PM-KISAN திட்டம் என்றால் என்ன?",
+    "expected_keywords": [
+      "விவசாயிகள்"
+    ],
+    "expected_source": "pm_kisan.pdf",
+    "language": "Tamil"
+  },
+  {
+    "id": 5,
+    "question": "How can farmers apply for crop insurance?",
+    "expected_keywords": [
+      "crop insurance",
+      "application"
+    ],
+    "expected_source": "pm_fasal_bima.pdf",
+    "language": "English"
+  }
+]
